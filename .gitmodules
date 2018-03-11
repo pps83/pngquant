@@ -1,3 +1,16 @@
 [submodule "lib"]
 	path = lib
-	url = https://github.com/ImageOptim/libimagequant.git
+	url = ../libimagequant.git
+	branch = master
+[submodule "third_party/libgetopt"]
+	path = third_party/libgetopt
+	url = ../libgetopt.git
+	branch = master
+[submodule "third_party/libpng"]
+	path = third_party/libpng
+	url = ../libpng.git
+	branch = master
+[submodule "third_party/zlib"]
+	path = third_party/zlib
+	url = ../zlib.git
+	branch = master

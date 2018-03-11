@@ -13,3 +13,8 @@ lib/libimagequant.a
 config.mk
 test/test
 target/
+*.suo
+*.VC.opendb
+*.VC.db
+/.vs/
+/build.msvc/
